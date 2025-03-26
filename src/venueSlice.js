@@ -1,4 +1,4 @@
-// venueSlice.js
+
 import { createSlice } from "@reduxjs/toolkit";
 
 export const venueSlice = createSlice({
@@ -56,5 +56,4 @@ export const venueSlice = createSlice({
 });
 
 export const { incrementQuantity, decrementQuantity } = venueSlice.actions;
-
 export default venueSlice.reducer;
