@@ -76,15 +76,6 @@ npm run preview
 yarn preview
 ```
 
-### Linting
-
-To check your code for linting errors:
-```sh
-npm run lint
-# or
-yarn lint
-```
-
 ## License
 
 [MIT](LICENSE)
